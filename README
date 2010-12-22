@@ -1,0 +1,15 @@
+This extension attempts to address the problem of StackOverflow clone sites - such as efreedom, questionhub and answerspice) appearing above original StackOverflow answers in google. As well as being clones of the original information, these sites strip original author information and a number of other SO features, as well as covering the page in ads for their own benefit.
+
+On a google search result page, any link from one of the 3 clone sites will be corrected to point at the original on StackOverflow.
+Similarly, landing on a page on one of the clone sites will result in automatic redirection to the original source on StackOverflow.
+
+Clone sites which shall be automatically redirected to the original:
+- answerspice.com
+- comanswer.com
+- efreedom.com
+- questionhub.com
+- developerit.com (not strictly a SO-based site, but still recycling original content)
+
+Currently in FF add-ons sandbox - has been reviewed but requires couple of small tweaks before going public.
+
+See https://addons.mozilla.org/en-US/firefox/addon/261964/
