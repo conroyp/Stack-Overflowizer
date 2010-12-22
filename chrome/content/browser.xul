@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE stackoverflowizer SYSTEM "chrome://stackoverflowizer/locale/translations.dtd">
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script src="stackoverflowizer.js" />
+
+</overlay>
